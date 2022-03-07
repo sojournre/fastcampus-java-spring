@@ -1,0 +1,4 @@
+Mar 04, 2022 10:46:23 PM ch11.MyLogger log
+WARNING: test
+Mar 04, 2022 10:46:23 PM ch11.MyLogger log
+SEVERE: test
